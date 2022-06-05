@@ -3,7 +3,7 @@ title:  "学员感想 | 哇！好有趣的一群灵魂！"
 subtitle: ":)"
 author: "codingirlsclub"
 avatar: "assets/images/authors/logo.jpg"
-image: "assets/images/landscape.jpg"
+image: "assets/images/landscape.jpeg"
 ---
 
 **文 | 苏倩文**  
